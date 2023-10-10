@@ -1,5 +1,5 @@
 function double(x) {
-  return x + x;
+  return 2*x;
 }
 
 function triple(x) {
